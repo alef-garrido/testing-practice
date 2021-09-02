@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "A few practical tests for JavaScript functions using the Jest library.",
+  "main": "practice.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alef-garrido/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alef-garrido/testing-practice/issues"
+  },
+  "homepage": "https://github.com/alef-garrido/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
